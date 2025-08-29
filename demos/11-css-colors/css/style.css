@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: #b568b6;
+}
+
+#second-paragraph {
+    background-color: #7febdc;
+    color:green;
+}
+
+#span-1 {
+    color:#17afb4;
+    
+}
+
+#span-2 {
+    color:black;
+    background-color: yellow;
+}
