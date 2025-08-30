@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#span-1 {
+    font-weight: bolder;
+    text-decoration:line-through;
+}
+
+#span-2 {
+    font-style: italic;
+}
+
+#big-paragraph {
+    font-size: 16px;
+    font-family: 
+        Verdana, Geneva, 
+        Tahoma, sans-serif;
+}
+
+#ff-1 {
+    font-family: serif;
+    text-align:center;
+}
+
+#ff-2 {
+    font-family: sans-serif;
+}
+
+#ff-3 {
+    font-family: monospace;
+}
+
+#ff-4 {
+    font-family: cursive;
+}
+
+#ff-5 {
+    font-family: fantasy;
+}
+
+#no-underline {
+    text-decoration:none;
+    color:green;
+}
+
+#image-align {
+    width:300px
+    /* DO NOT DO THIS */
+    /* text-align: center; */
+}
+
+#alignment-test {
+    text-align: center;
+    /* DO THIS */
+}
