@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+/* Tag */
+#red-paragraph {
+    color: red;
+}
+
+
+/* Class */
+.shadowed {
+    background-color: lightskyblue;
+    margin:24px;
+    padding: 24px;
+    /* x-offset, y-offset, blur-radius, color */
+    box-shadow: 
+        inset 4px 4px 25px gray,
+        4px 4px 8px gray;
+}
+
+
+/* Html element seletor */
+p {
+    font-size: 18px;
+    color: blue;
+}
