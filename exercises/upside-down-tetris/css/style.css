@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 500px;
+    height: 100vh;
+    background-color:aliceblue;
+    font-size: 0px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.green {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 15px outset darkgreen;
+}
+
+.blue {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 15px outset darkblue;
+}
+
+.red {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 15px outset darkred;
+}
+
+.yellow {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 15px outset darkgoldenrod;
+}
+
+.purple {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border: 15px outset darkorchid;
+}
+
+
+

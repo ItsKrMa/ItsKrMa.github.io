@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+/* Displays lets you make the element an 
+inline or a block element. */
+
+span {
+    background-color: aquamarine;
+    /* display: block; */
+}
+
+div {
+    background-color: #e67b7b;
+    /* display: inline; */
+}
+
+p {
+    background-color: aliceblue;
+}
+
+/* This is how you get content side by side */
+.narrow {
+    width: 200px; 
+    display: inline-block;
+    /* this is how you center align a block when you 
+    have smaller text ( this isnt always gonna be perment )*/
+    vertical-align: middle;
+}
