@@ -16,12 +16,8 @@
     height: 200px;
 }
 
-.post-it-small {
-    vertical-align: top;
-    display: inline-block;
+.small {
     width: 150px;
-    margin: 24px; 
-    padding: 24px;
     height: 150px;
 }
 
@@ -34,18 +30,18 @@
     height: 200px;
 }
 
-#blue {
+.blue {
     background-color: rgb(67, 195, 255);
 }
 
-#yellow {
+.yellow {
     background-color: rgb(255, 255, 100);
 }
 
-#purple {
+.purple {
     background-color: rgb(190, 120, 255);
 }
 
-#pink {
+.pink {
     background-color: palevioletred;
 }
