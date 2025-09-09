@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#navbar {
+    text-align: center;
+    padding: 24px;
+    background-color: blue;
+}
+
+/* descendant selector */
+#navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 14px;
+}
+
+/* descendant selector */
+p a {
+    color: teal;
+}
+
+/* compound selector */
+p.warning {
+    background-color: crimson;
+}
+
+/* compound selector w/ descendant selector */
+p.warning a {
+    color: orange;
+}
