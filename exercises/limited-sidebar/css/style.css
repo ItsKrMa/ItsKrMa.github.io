@@ -24,7 +24,7 @@ body {
     color: orange;
 }
 
-#sidebar li.chapter.edit {
+#sidebar .chapter.edit {
     color: red;
 }
 
@@ -32,7 +32,7 @@ body {
     font-style: italic;
 }
 
-#sidebar div h4 {
+#sidebar h4 {
     padding: 2px;
     border-bottom: 2px solid white;
 }
