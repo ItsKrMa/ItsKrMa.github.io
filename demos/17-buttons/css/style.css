@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.button {
+    color: black;
+    text-decoration: none;
+    /* always needs this in inline block on your buttons */
+    display: inline-block;
+}
+
+.button.simple {
+    border: 1px solid black;
+    margin: 8px;
+    border-radius: 4px;
+    padding: 4px;
+    background-color: aliceblue;
+}
+
+.button.background {
+    background-color: blue;
+    color: white;
+    padding: 24px;
+    border-radius: 36px;
+    margin: 8px;
+    font-size:  24px;
+    font-weight: bold;
+}
+
+.button.border {
+    color: forestgreen;
+    border: 3px solid forestgreen;
+    margin: 8px;
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button.wide {
+    display: block;
+    text-align: center;
+}
+
+#section-3 {
+    max-width: 600px;
+}
