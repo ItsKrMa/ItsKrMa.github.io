@@ -24,7 +24,7 @@ body {
 }
 
 #morning li {
-    padding: 10px
+    padding: 10px;
 }
 
 #morning .completed {
@@ -71,7 +71,7 @@ body {
 }
 
 #afternoon li {
-    padding: 10px
+    padding: 10px;
 }
 
 #afternoon .completed {
@@ -94,7 +94,7 @@ body {
     padding: 10px;
     margin-left: 10px;
     border-radius: 15px;
-    color:white;
+    color: white;
     font-size: 15px;
     width: 150px;
     text-align: center;
@@ -118,7 +118,7 @@ body {
 }
 
 #evening li {
-    padding: 10px
+    padding: 10px;
 }
 
 #evening .completed {
@@ -141,9 +141,8 @@ body {
     padding: 10px;
     margin-left: 10px;
     border-radius: 15px;
-    color:white;
+    color: white;
     font-size: 15px;
     width: 150px;
     text-align: center;
 }
-
