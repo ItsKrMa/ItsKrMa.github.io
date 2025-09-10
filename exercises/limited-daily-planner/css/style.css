@@ -7,6 +7,7 @@ body {
     font-family: sans-serif;
 }
 
+/* Morning classes and ids */
 #morning {
     background-color: bisque;
     border-radius: 24px;
@@ -23,7 +24,7 @@ body {
 }
 
 #morning li {
-    padding: 8px
+    padding: 10px
 }
 
 #morning .completed {
@@ -43,9 +44,106 @@ body {
     display: inline-block;
     background-color: rgb(49, 53, 48);
     text-decoration: none;
-    padding: 15px;
-    margin: 10px;
+    padding: 10px;
+    margin-left: 10px;
     border-radius: 15px;
     color:white;
     font-size: 15px;
+    font-weight: bold;
+    width: 150px;
+    text-align: center;
 }
+
+/* Afternoon Ids and classes */
+#afternoon {
+    background-color: rgb(196, 228, 255);
+    border-radius: 24px;
+    margin: 15px;
+    padding: 20px;
+    max-width: 700px;
+}
+
+#afternoon ul {
+    background-color: rgb(166, 197, 238);
+    margin: 24px;
+    padding: 35px;
+    border-radius: 15px;
+}
+
+#afternoon li {
+    padding: 10px
+}
+
+#afternoon .completed {
+    text-decoration: line-through;
+}
+
+#afternoon .important {
+    font-weight: bold;
+    color: rgb(201, 0, 0);
+}
+
+#afternoon .completed.important {
+    background-color: rgba(220, 244, 255, 0.644);
+}
+
+#afternoon .button {
+    display: inline-block;
+    background-color: rgb(49, 53, 48);
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 15px;
+    color:white;
+    font-size: 15px;
+    width: 150px;
+    text-align: center;
+}
+
+/* Evening ids and classes */
+
+#evening {
+    background-color: rgb(212, 196, 255);
+    border-radius: 24px;
+    margin: 15px;
+    padding: 20px;
+    max-width: 700px;
+}
+
+#evening ul {
+    background-color: rgb(193, 166, 238);
+    margin: 24px;
+    padding: 35px;
+    border-radius: 15px;
+}
+
+#evening li {
+    padding: 10px
+}
+
+#evening .completed {
+    text-decoration: line-through;
+}
+
+#evening .important {
+    font-weight: bold;
+    color: rgb(201, 0, 0);
+}
+
+#evening .completed.important {
+    background-color: rgba(232, 220, 255, 0.644);
+}
+
+#evening .button {
+    display: inline-block;
+    background-color: rgb(49, 53, 48);
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 15px;
+    color:white;
+    font-size: 15px;
+    width: 150px;
+    text-align: center;
+}
+
