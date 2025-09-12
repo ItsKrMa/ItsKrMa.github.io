@@ -43,12 +43,12 @@ body {
 }
 
 .single-column h2 {
-    font-family: "Alfa Slab One", serif;
     color: rgb(255, 255, 0);
     font-weight: 900;
 }
 
 .single-column h1 {
+    font-family: "Alfa Slab One", serif;
     color: aliceblue;
     font-weight: 900;
 }
