@@ -45,6 +45,7 @@ body {
 }
 
 .button {
+    font-family: "DM Serif Text", serif;
     text-decoration: none;
     color: black;
     border-radius: 3px;
