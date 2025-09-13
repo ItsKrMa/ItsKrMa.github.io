@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -23,8 +25,8 @@ body {
 }
 
 .card h3 {
+    font-family: "DM Serif Text", serif;
     font-size: 20px;
-
 }
 
 .card p {
