@@ -53,5 +53,17 @@ body {
 }
 
 #three-cards {
-    gap: 36px;
+    text-align: center;
+    display: flex;
 }
+
+#three-cards .kinda-sorta-card img{
+    width: 200px;
+    height: 300px;
+}
+
+#three-cards .kinda-sorta-card h4 {
+    font-size: 24px;
+}
+
+
