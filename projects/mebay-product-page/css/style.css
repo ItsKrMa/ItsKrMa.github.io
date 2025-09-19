@@ -28,11 +28,11 @@ body {
 }
 
 #featured-image-column img {
-    width: 100%
+    width: 100%;
 }
 
 #product-info-column {
-    width: 400px
+    width: 400px;
 }
 
 #product-info-column #seller-information {
@@ -43,7 +43,7 @@ body {
 }
 
 #product-info-column #seller-information a {
-    color:black;
+    color: black;
     padding: 4px;
 }
 
